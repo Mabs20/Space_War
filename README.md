@@ -21,4 +21,4 @@ The controls of this game are very very complicated, you MUST have a specific so
 
 ## Gameplay
 
-(https://github.com/Mabs20/markdown-here/raw/master/src/common/screenshot/Capture.png "Gameplay")
+![Screenshot](https://github.com/Mabs20/markdown-here/raw/master/src/common/screenshot/Capture.png "Gameplay")
