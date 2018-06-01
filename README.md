@@ -23,6 +23,6 @@ The controls of this game are very very complicated, you MUST have a specific so
 
 ![alt text](https://github.com/Mabs20/Space_War/blob/master/screenshot/Capture.PNG)
 
-![alt text](https://github.com/Mabs20/Space_War/blob/master/screenshot/Playing.PNG)
+![alt text](https://raw.githubusercontent.com/Mabs20/Space_War/master/screenshot/Playing.PNG)
 
 <https://github.com/Mabs20/Space_War/releases>
