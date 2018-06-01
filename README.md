@@ -2,7 +2,7 @@
 
 ## Description
 
-* YOU HAVE TO HAVE A SPECIFIC SOFTWARE TO RUN THIS GAME * 
+ *YOU HAVE TO HAVE A SPECIFIC SOFTWARE TO RUN THIS GAME* 
 Space War is a  very complex game, with many levels & with bosses up to 100,000,000 health! There are 'drops' such as health, super-speed, rapid fire, & many more power-ups. 
 
 ## Objective Of The Game
