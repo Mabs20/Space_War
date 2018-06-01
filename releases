@@ -6,4 +6,38 @@ if getattr(sys, 'frozen', False):
 else:
     current_path = os.path.dirname(__file__)
 
+
+FONT_GAME = pygame.font.Font(current_path  + 'assets/fonts/Game_text.ttf', 96)
+FONT_SCORE = pygame.font.Font(current_path  + 'assets/fonts/Computerfont.ttf', 24)
+
 ship_img = pygame.image.load(current_path  + '/assets/images/playerShip1_red.png')
+ship_img2 = pygame.image.load(current_path  + 'assets/images/playerShip1_Damage1.png')
+ship_img3 = pygame.image.load(current_path  + 'assets/images/playerShip1_Damage2.png')
+ship_img4 = pygame.image.load(current_path  + 'assets/images/playerShip1_Damage3.png')
+ship_img5 = pygame.image.load(current_path  + 'assets/images/playerShip1_Damage4.png')
+ship_img6 = pygame.image.load(current_path  + 'assets/images/playerShip1_Damage5.png')
+
+lasers_img = pygame.image.load(current_path  + 'assets/images/laserGreen11.png')
+
+mob_img = pygame.image.load(current_path  + 'assets/images/enemyBlack5.png')
+mob_img2 = pygame.image.load(current_path  + 'assets/images/enemyBlack5_Damage1.png')
+mob_img3 = pygame.image.load(current_path  + 'assets/images/enemyBlack5_Damage2.png')
+mob_img4 = pygame.image.load(current_path  + 'assets/images/enemyBlack5_Damage3.png')
+mob_img5 = pygame.image.load(current_path  + 'assets/images/enemyBlack5_Damage4.png')
+
+
+bluemob_img = pygame.image.load(current_path  + 'assets/images/enemyBlue1.png')
+bluemob_img1 = pygame.image.load(current_path  + 'assets/images/enemyBlue1_Damage3.png')
+bluemob_img2 = pygame.image.load(current_path  + 'assets/images/enemyBlue1_Damage5.png')
+
+bomb_img = pygame.image.load(current_path  + 'assets/images/laserBlue01.png')
+
+background_img = pygame.image.load(current_path  + 'assets/images/back_ground/darkPurple.png')
+
+death_screen = pygame.image.load(current_path  + 'assets/images/death_screen.png')
+
+EXPLOSION = pygame.mixer.Sound(current_path  + 'assets/sounds/explosion.ogg')
+PLAYER_LASER = pygame.mixer.Sound(current_path  + 'assets/sounds/sfx_laser1.ogg')
+ENEMY_LASER = pygame.mixer.Sound(current_path  + 'assets/sounds/sfx_laser2.ogg')
+SHIELD_DOWN = pygame.mixer.Sound(current_path  + 'assets/sounds/sfx_shieldDown.ogg')
+GAME_MUSIC = pygame.mixer.Sound(current_path  + 'assets/sounds/game_music.ogg')
