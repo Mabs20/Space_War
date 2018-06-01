@@ -21,4 +21,4 @@ The controls of this game are very very complicated, you MUST have a specific so
 
 ## Gameplay
 
-[screenshot]: (https://github.com/Mabs20/Space_War/blob/master/screenshot/Capture.PNG)
+![screenshot]: (https://github.com/Mabs20/Space_War/blob/master/screenshot/Capture.PNG)
