@@ -19,3 +19,6 @@ The object of the game is to beat the boss. In order to get to the boss boss, yo
 
 The controls of this game are very very complicated, you MUST have a specific software to run these controls, you can only use the left arrow (moves ship to the left) & use the right arrow (moves ship to the right)
 
+## Gameplay
+
+![alt text](https://github.com/Mabs20/markdown-here/raw/master/src/common/screenshot/Capture.png "Gameplay")
