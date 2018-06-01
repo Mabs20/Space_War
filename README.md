@@ -1,4 +1,4 @@
-# Space War game
+# Space War
 
 ## Description
 
